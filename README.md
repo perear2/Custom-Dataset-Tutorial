@@ -3,7 +3,7 @@ This is a more detailed tutorial for loading a custom dataset based off of the Q
 https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
 ### Python Notebook Files
-MyDatasetTutorial.zip - Jupyter notebook option. Includeds all the dataset files to run locally.<br>
+MyDatasetTutorial.zip - Jupyter notebook option. Includes all the dataset files to run locally.<br>
 dataloadingtutorial_2025.ipynb - Google Colab option
 
 ### The Dataset
