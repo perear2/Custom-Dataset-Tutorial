@@ -7,7 +7,7 @@ MyDatasetTutorial.zip - Jupyter notebook option. Includeds all the dataset files
 dataloadingtutorial_2025.ipynb - Google Colab option
 
 ### The Dataset
-MyImages.zip - The image dataset of handwritten 0's and 1's<br>
+MyImages.zip - The image dataset of personally handwritten 0's and 1's<br>
 - Resolution: 32x32<br>
 - Format: 8-bit greyscale JPEG<br>
 - Items: 1000 images<br>
