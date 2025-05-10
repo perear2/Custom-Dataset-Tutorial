@@ -1,5 +1,5 @@
 # Pytorch Custom Dataset Tutorial
-This is a more detailed tutorial for loading a custom dataset based off of the [Quickstart Tutorial](https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) by Pytorch. It loads Pytorch's MNIST dataset to train and my provided dataset to test. Code derived from the Quickstart Tutorial is slimmed down to focus more on the loading a custom dataset and smaller test values like "epochs" were minimized to "1" to debug for compatibility faster.
+This is a more detailed tutorial for loading a custom dataset based off of the [Quickstart Tutorial](https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) from Pytorch. It loads Pytorch's MNIST dataset to train and my provided dataset to test. Code derived from the Quickstart Tutorial is slimmed down to focus more on the loading a custom dataset and smaller test values like "epochs" were minimized to "1" to debug for compatibility faster.
 
 ### Python Notebook Files
 MyDatasetTutorial.zip - Jupyter notebook option. Includes all the dataset files in the directory stucture needed to run locally.<br>
