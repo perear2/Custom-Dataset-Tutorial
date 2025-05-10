@@ -2,7 +2,7 @@
 This is a more detailed tutorial for loading a custom dataset based off of the Quickstart Tutorial by Pytorch.
 https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
-### Files
+### Python Notebook Files
 MyDatasetTutorial.zip - Jupyter notebook option. Includeds all the dataset files to run locally.
 dataloadingtutorial_2025.ipynb - Google Colab option
 
