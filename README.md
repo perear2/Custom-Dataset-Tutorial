@@ -1,6 +1,5 @@
 # Pytorch Custom Dataset Tutorial
-This is a more detailed tutorial for loading a custom dataset based off of the Quickstart Tutorial by Pytorch.
-https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+This is a more detailed tutorial for loading a custom dataset based off of the [Quickstart Tutorial](https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) by Pytorch.
 
 ### Python Notebook Files
 MyDatasetTutorial.zip - Jupyter notebook option. Includes all the dataset files in the directory stucture needed to run locally.<br>
