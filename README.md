@@ -4,7 +4,7 @@ This is a more detailed tutorial for loading a custom dataset based off of the Q
 ### Files
 
 The Dataset
-MyImages.zip - The image dataset of handwritten 0's and 1's 
+MyImages.zip - The image dataset of handwritten 0's and 1's<br?
  Resolution: 32x32
  
 MyLabels.csv -
